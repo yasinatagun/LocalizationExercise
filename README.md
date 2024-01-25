@@ -1,16 +1,6 @@
 # exercise_localization
 
-A new Flutter project.
+Used flutter localizations and flutter intl packages and learned how to create multip language apps.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1706187424](https://github.com/yasinatagun/LocalizationExercise/assets/4943407/034ecfc3-93cc-4cd4-975e-c575c7441a28)
+![Screenshot_1706187410](https://github.com/yasinatagun/LocalizationExercise/assets/4943407/945e0660-568e-4b27-9df7-8eb9c10787d0)
